@@ -20,9 +20,7 @@ def preprocess_image(image_path):
         gray, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, 
         cv2.THRESH_BINARY_INV, 15, 2
     )
-    
-    # Optional: Save preprocessed image for debugging
-    # cv2.imwrite("preprocessed.png", thresh)
+
     return image, gray, thresh
 
 def detect_lines(image, thresh):
@@ -131,7 +129,7 @@ def save_output(json_data, image_path):
         zipf.write("output.json")
         zipf.write(image_path)
     
-    print("Output saved as 'output.json' and zipped as 'submission.zip'")
+    print("Output saved as 'output.json' and zipped as 'treeleaf_task.zip'")
 
 def main():
     """Main function to execute the table extraction pipeline."""
