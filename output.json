@@ -1,242 +1,101 @@
 [
     {
-        "unknown": "",
-        "no": "Unit Price(USD)",
-        "item_no": "Amount(USD)",
-        "description": "",
-        "hscode": "",
-        "p_o": "",
-        "s_o": ""
-    },
-    {
-        "unknown": "",
         "no": "",
         "item_no": "",
         "description": "",
         "hscode": "",
         "p_o": "",
-        "s_o": ""
+        "s_o": "",
+        "o_ty_pcs": "",
+        "unit_price_usd": "",
+        "amount_usd": ""
     },
     {
-        "unknown": "124.00",
-        "no": "NeoNatalie Basic (dark)",
-        "item_no": "902300",
-        "description": "TN200259",
-        "hscode": "$0125175",
-        "p_o": "",
-        "s_o": "20"
-    },
-    {
-        "unknown": "$0125175",
         "no": "",
-        "item_no": "10",
-        "description": "340-00333",
-        "hscode": "MamaNatalie Comp! Light",
-        "p_o": "902300",
-        "s_o": "TN200259"
+        "item_no": "104-10001",
+        "description": "NeoNatalie Basic (dark)",
+        "hscode": "902300",
+        "p_o": "TN200259",
+        "s_o": "$0125175",
+        "o_ty_pcs": "20",
+        "unit_price_usd": "124.00",
+        "amount_usd": "2480.00"
     },
     {
-        "unknown": "",
-        "no": "10",
-        "item_no": "450.00",
-        "description": "4500.00",
-        "hscode": "",
-        "p_o": "",
-        "s_o": ""
-    },
-    {
-        "unknown": "",
         "no": "",
-        "item_no": "",
-        "description": "",
-        "hscode": "",
-        "p_o": "",
-        "s_o": ""
+        "item_no": "340-00333",
+        "description": "MamaNatalie Comp! Light",
+        "hscode": "902300",
+        "p_o": "TN200259",
+        "s_o": "$0125175",
+        "o_ty_pcs": "",
+        "unit_price_usd": "450.00",
+        "amount_usd": "4500.00"
     },
     {
-        "unknown": "",
         "no": "",
-        "item_no": "",
-        "description": "",
-        "hscode": "",
-        "p_o": "",
-        "s_o": ""
+        "item_no": "340-00533",
+        "description": "MamaN Compl (LT) Mama-U",
+        "hscode": "902300",
+        "p_o": "TN200259",
+        "s_o": "$0125175",
+        "o_ty_pcs": "",
+        "unit_price_usd": "705.60",
+        "amount_usd": "705.60"
     },
     {
-        "unknown": "",
         "no": "",
-        "item_no": "",
-        "description": "",
-        "hscode": "",
-        "p_o": "",
-        "s_o": ""
+        "item_no": "340-11033",
+        "description": "NeoNatalie Spare Dk",
+        "hscode": "902300",
+        "p_o": "TN200259",
+        "s_o": "$0125175",
+        "o_ty_pcs": "",
+        "unit_price_usd": "",
+        "amount_usd": "765.00"
     },
     {
-        "unknown": "",
-        "no": "",
-        "item_no": "",
-        "description": "",
-        "hscode": "",
-        "p_o": "",
-        "s_o": ""
-    },
-    {
-        "unknown": "",
-        "no": "",
-        "item_no": "",
-        "description": "",
-        "hscode": "",
-        "p_o": "",
-        "s_o": ""
-    },
-    {
-        "unknown": "",
-        "no": "",
-        "item_no": "",
-        "description": "",
-        "hscode": "",
-        "p_o": "",
-        "s_o": ""
-    },
-    {
-        "unknown": "",
-        "no": "",
-        "item_no": "",
-        "description": "",
-        "hscode": "",
-        "p_o": "",
-        "s_o": ""
-    },
-    {
-        "unknown": "",
-        "no": "",
-        "item_no": "",
-        "description": "",
-        "hscode": "",
-        "p_o": "",
-        "s_o": ""
-    },
-    {
-        "unknown": "",
-        "no": "",
-        "item_no": "",
-        "description": "",
-        "hscode": "",
-        "p_o": "",
-        "s_o": ""
-    },
-    {
-        "unknown": "",
-        "no": "",
-        "item_no": "",
-        "description": "",
-        "hscode": "",
-        "p_o": "",
-        "s_o": ""
-    },
-    {
-        "unknown": "",
-        "no": "",
-        "item_no": "",
-        "description": "",
-        "hscode": "",
-        "p_o": "",
-        "s_o": ""
-    },
-    {
-        "unknown": "",
-        "no": "",
-        "item_no": "",
-        "description": "",
-        "hscode": "",
-        "p_o": "",
-        "s_o": ""
-    },
-    {
-        "unknown": "",
-        "no": "",
-        "item_no": "",
-        "description": "",
-        "hscode": "",
-        "p_o": "",
-        "s_o": ""
-    },
-    {
-        "unknown": "",
-        "no": "",
-        "item_no": "",
-        "description": "",
-        "hscode": "",
-        "p_o": "",
-        "s_o": ""
-    },
-    {
-        "unknown": "340-11033",
-        "no": "",
-        "item_no": "",
-        "description": "",
-        "hscode": "",
-        "p_o": "",
-        "s_o": ""
-    },
-    {
-        "unknown": "765.00",
-        "no": "902300",
-        "item_no": "TN200259",
-        "description": "$0125175",
-        "hscode": "",
-        "p_o": "",
-        "s_o": ""
-    },
-    {
-        "unknown": "",
         "no": "",
         "item_no": "340-11133",
         "description": "NeoNatalie Spare Lt",
         "hscode": "902300",
         "p_o": "TN200259",
-        "s_o": "$0125175"
+        "s_o": "$0125175",
+        "o_ty_pcs": "",
+        "unit_price_usd": "",
+        "amount_usd": "153.00"
     },
     {
-        "unknown": "902300",
         "no": "",
-        "item_no": "153.00",
-        "description": "",
-        "hscode": "",
-        "p_o": "340-12033",
-        "s_o": "NeoNatalie body (Qt2) Dk"
+        "item_no": "340-12033",
+        "description": "NeoNatalie body (Qt2) Dk",
+        "hscode": "902300",
+        "p_o": "TN200259",
+        "s_o": "$0125175",
+        "o_ty_pcs": "",
+        "unit_price_usd": "",
+        "amount_usd": "36.60"
     },
     {
-        "unknown": "38",
-        "no": "$0125175",
-        "item_no": "",
-        "description": "",
-        "hscode": "",
-        "p_o": "36.60",
-        "s_o": ""
-    },
-    {
-        "unknown": "586.00",
-        "no": "MamaBirthie (light)",
-        "item_no": "902300",
-        "description": "TN200259",
-        "hscode": "$0125175",
-        "p_o": "",
-        "s_o": "38"
-    },
-    {
-        "unknown": "$0125175",
         "no": "",
-        "item_no": "",
-        "description": "450-00033",
-        "hscode": "LM Mama-U",
-        "p_o": "902300",
-        "s_o": "TN200259"
+        "item_no": "360-00133",
+        "description": "MamaBirthie (light)",
+        "hscode": "902300",
+        "p_o": "TN200259",
+        "s_o": "$0125175",
+        "o_ty_pcs": "",
+        "unit_price_usd": "586.00",
+        "amount_usd": "22268.00"
     },
     {
-        "unknown": "",
         "no": "",
-        "item_no": "153.00",
-        "description": "5508.00"
+        "item_no": "450-00033",
+        "description": "LM Mama-U",
+        "hscode": "902300",
+        "p_o": "TN200259",
+        "s_o": "$0125175",
+        "o_ty_pcs": "",
+        "unit_price_usd": "153.00",
+        "amount_usd": "5508.00"
     }
 ]
