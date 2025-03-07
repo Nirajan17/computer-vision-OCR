@@ -5,7 +5,7 @@ This project extracts tabular data from images using *OpenCV* and *Tesseract* OC
 ## Overview
 The script processes an input image (image.png) to:
 
-    -Preprocess the image for better text and table detection.
+    - Preprocess the image for better text and table detection.
     - Detect horizontal and vertical lines to identify table cells.
     - Extract text from each cell using OCR.
     - Organize the extracted data into headers and rows.
@@ -21,16 +21,17 @@ The script processes an input image (image.png) to:
 
 
 ## Install dependencies:
-    ```bash
-    pip install opencv-python pytesseract Pillow numpy
+    ``` bash
+    pip install opencv-python pytesseract Pillow numpy 
     ```
 
 ## Usage
     1. Place your input image (image.png) in the same directory as the script.
     2. Run the script:
-        ```bash
+
+        ``` bash
         python app.py
         ```
     3. Check the output:
         * output.json: Extracted table data in JSON format.
-        * submission.zip: Zip file containing `output.json` and `image.png`
+        * submission.zip: Zip file containing ``output.json`` and ``image.png``
