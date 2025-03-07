@@ -6,3 +6,5 @@ image.png
 lines_detected.png
 lines_detection.png
 text_detection.png
+cell_text.json
+raw_text.txt
